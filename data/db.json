@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "finding joy in challenges",
+      "body": "embracing difficulties and overcoming obstacles\nleads to personal growth and fulfillment\nfinding happiness amidst adversity\nis a powerful journey worth experiencing"
+    },
+    {
+      "id": "2",
+      "title": "moments that shape us",
+      "body": "life's defining moments and responsibilities\nteach us valuable lessons and forge our character\nfacing challenges head-on\nstrengthens our resilience and shapes our destiny"
+    },
+    {
+      "id": "3",
+      "title": "making choices with purpose of life",
+      "body": "conscious decisions pave the path to success\nchoosing a purposeful life aligns actions with values\nmaking intentional choices\ncreates a meaningful and fulfilling existence"
+    }
+  ]
+}
